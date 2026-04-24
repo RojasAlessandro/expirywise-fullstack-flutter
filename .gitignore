@@ -1,0 +1,25 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
