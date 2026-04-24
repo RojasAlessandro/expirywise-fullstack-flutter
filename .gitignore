@@ -18,6 +18,10 @@ yarn-error.log
 .packages
 build/
 
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
 # VS Code
 .vscode/
 
