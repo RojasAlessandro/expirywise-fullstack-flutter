@@ -11,10 +11,10 @@
 
 ## Milestone 2: Flutter App Setup
 
-- [ ] Create Flutter app inside the mobile folder
-- [ ] Run Flutter app locally
-- [ ] Clean default Flutter starter code
-- [ ] Create first welcome screen
+- [x] Create Flutter app inside the mobile folder
+- [x] Run Flutter app locally
+- [x] Clean default Flutter starter code
+- [x] Create first welcome screen
 
 ## Milestone 3: Backend Setup
 
