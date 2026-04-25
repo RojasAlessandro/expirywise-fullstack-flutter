@@ -18,10 +18,10 @@
 
 ## Milestone 3: Backend Setup
 
-- [ ] Initialize Node.js backend
-- [ ] Install Express
-- [ ] Create health check endpoint
-- [ ] Test backend locally
+- [x] Initialize Node.js backend
+- [x] Install Express
+- [x] Create health check endpoint
+- [x] Test backend locally
 
 ## Milestone 4: Database Planning
 
