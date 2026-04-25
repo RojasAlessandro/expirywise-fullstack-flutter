@@ -17,3 +17,11 @@ Write how you fixed the issue here.
 
 ## Next step
 Plan the database schema for users, food items, and waste logs.
+
+## Additional Progress
+
+I added a mock food item route at `/api/food-items`.
+
+This route returns sample grocery data such as milk, chicken breast, and rice. I used mock data first so I can learn how backend API routes work before connecting the backend to PostgreSQL.
+
+This prepares the project for the next milestone, where the Flutter app will fetch food item data from the backend.
