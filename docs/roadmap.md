@@ -8,7 +8,7 @@
 - [x] Create project folder structure
 - [x] Create README
 - [x] Create documentation folders
-- [ ] Create first architecture diagram
+- [x] Create first architecture diagram
 
 ## Milestone 2: Flutter App Setup
 
@@ -28,12 +28,12 @@
 
 ## Milestone 4: Flutter Connects to Backend
 
-- [ ] Add HTTP package to Flutter
-- [ ] Create API service
-- [ ] Fetch mock food item data from backend
-- [ ] Display loading state
-- [ ] Display error state
-- [ ] Display empty pantry state
+- [x] Add HTTP package to Flutter
+- [x] Create API service
+- [x] Fetch mock food item data from backend
+- [x] Display loading state
+- [x] Display error state
+- [x] Display empty pantry state
 
 ## Milestone 5: Database Planning
 

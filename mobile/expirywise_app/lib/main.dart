@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'screens/pantry_preview_screen.dart';
 
 void main() {
   runApp(const ExpiryWiseApp());
@@ -111,7 +112,14 @@ class WelcomeScreen extends StatelessWidget {
                     // Get Started Button
                     ElevatedButton(
                       onPressed: () {
-                        showComingSoonMessage(context, 'Register');
+                        // Open a new screen on top of the current screen
+                        Navigator.push(
+                          context,
+                          // Use a normal Android-style page transition
+                          MaterialPageRoute(
+                            builder: (context) => const PantryPreviewScreen(),
+                          ),
+                        );
                       },
                       style: ElevatedButton.styleFrom(
                         backgroundColor: Colors.green,
@@ -144,6 +152,7 @@ class WelcomeScreen extends StatelessWidget {
   }
 }
 
+// FeatureRow Class
 class FeatureRow extends StatelessWidget {
   final IconData icon;
   final String title;
