@@ -46,11 +46,11 @@
 
 ## Milestone 6: Database Setup
 
-- [ ] Install PostgreSQL tools/dependencies
-- [ ] Connect backend to PostgreSQL
-- [ ] Create database connection file
-- [ ] Test database connection
-- [ ] Query sample food items from database
+- [x] Install PostgreSQL tools/dependencies
+- [x] Connect backend to PostgreSQL
+- [x] Create database connection file
+- [x] Test database connection
+- [x] Query sample food items from database
 
 ## Milestone 7: Flutter UI With Mock Data
 

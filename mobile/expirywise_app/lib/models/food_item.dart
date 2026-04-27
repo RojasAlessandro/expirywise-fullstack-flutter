@@ -31,11 +31,11 @@ class FoodItem {
      id: json['id'],
      name: json['name'],
      category: json['category'],
-     quantity: json['quantity'],
+     quantity: num.parse(json['quantity'].toString()),
      unit: json['unit'],
      purchaseDate: json['purchaseDate'],
      expiryDate: json['expiryDate'],
-     estimatedCost: (json['estimatedCost'] as num).toDouble(),
+     estimatedCost: double.parse(json['estimatedCost'].toString()),
      storageLocation: json['storageLocation'],
      status: json['status'],
    );
