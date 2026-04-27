@@ -37,12 +37,12 @@
 
 ## Milestone 5: Database Planning
 
-- [ ] Design users table
-- [ ] Design food_items table
-- [ ] Design waste_logs table
-- [ ] Design shopping_reflections table
-- [ ] Write initial schema.sql
-- [ ] Write seed.sql with sample food items
+- [x] Design users table
+- [x] Design food_items table
+- [x] Design waste_logs table
+- [x] Design shopping_reflections table
+- [x] Write initial schema.sql
+- [x] Write seed.sql with sample food items
 
 ## Milestone 6: Database Setup
 
